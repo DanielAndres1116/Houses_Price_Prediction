@@ -30,6 +30,8 @@ For a Multiple Linear Regression with a model constructor in which there is Stan
 
 Separating the data between testing data and training data, I got a R-squared equal to 0.70
 
+All this results are in the notebook well explained.
+
 All this mean that it's possible get a good approximation of the House's price due its characteristics.
 
 
