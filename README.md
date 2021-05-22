@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/43154438/119212583-fee50680-ba7e-11eb-81d4-54747ee42959.png)
 
-#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/Houses_Price_Prediction/blob/main/House%20Sales_in_King_Count_USA%20%284%29.ipynb
+#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/Houses_Price_Prediction/blob/main/House%20Sales_in_King_Count_USA.ipynb
 
 ### Dataset Description
 
