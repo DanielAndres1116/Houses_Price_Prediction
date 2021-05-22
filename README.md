@@ -20,6 +20,16 @@ All this process is described in detail in the notebook.
 
 ### Results and Conclusions
 
+Here, some graphic analyzis that we can do.
+
+![image](https://user-images.githubusercontent.com/43154438/119212653-669b5180-ba7f-11eb-89c2-bacb2596324b.png)
+
+Graphic 1: Boxplot to analyze if the waterfronts affect House's price.
+
+![image](https://user-images.githubusercontent.com/43154438/119212685-9d716780-ba7f-11eb-9b3d-132afe6ef556.png)
+
+Gaphic 2: Scatter Plot to analyze if the price goes up due the square feet.  
+
 #### For the training model:
 
 For a simple linear regression I got a R-squared of 0.49
