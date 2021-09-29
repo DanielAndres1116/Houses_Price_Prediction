@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/43154438/119212583-fee50680-ba7e-11eb-81d4-54747ee42959.png)
 
-#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/Houses_Price_Prediction/blob/main/House%20Sales_in_King_Count_USA.ipynb
-
 ### Dataset Description
 
 The dataset used contains house sale prices for King Vounty, which includes Seattle. It includes homes sold between May 2014 and May 2015 and it has useful data as: number of bedrooms, number of bathrooms, square footage of the home, square footage of the lot, total floors, built year, condition, price, between others.
